@@ -1,0 +1,45 @@
+h1{
+    color: antiquewhite;
+}
+.button{
+    color: rgb(241, 239, 237);
+    width: 66px;
+padding: 20px;
+margin: 0px 3px;
+border: 2px solid #0d0c0d00;
+border-radius: 20px;
+cursor: pointer;
+background: rgba(255, 255, 255, 0.3)
+}
+
+.row{
+    margin: 8px 0px ;
+}
+
+.row input{
+    width: 298px;
+    font-size: 19px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 27px;
+}
+
+/* .back{
+    padding: auto;
+    margin: 100px;
+    background: url(../calculator/anime-scenery-sunset-uhdpaper.com-4K-112.jpg);
+    height: 10vw;
+} */
+
+.main{
+    background: url(../calculator/anime-scenery-sunset-uhdpaper.com-4K-112.jpg);
+height: 100vh;
+width: 100%;
+background-size: cover;
+}
+
+/* .overlay{
+
+
+} */
